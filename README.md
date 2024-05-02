@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Aparicio</h1>
+<h1 align="center">Hi 👋, I'm Manuel Aparicio Rocca</h1>
 <h3 align="center">A passionate full stack developer from Venezuela</h3>
 
 - 🔭 In 2023, I took a significant leap by transitioning into a Full Stack Developer role, thanks to my training at Henry. This experience has not only equipped me with a solid technical skill set but has also cultivated essential competencies such as teamwork, problem-solving, self-motivation, and a results-oriented mindset.
